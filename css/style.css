@@ -179,7 +179,7 @@ h1 {
   text-decoration: none;
 }
 
-.news_content ul li a:hover {
+.news_content ul li dl:hover {
   opacity: .6;
   transition: all .3s;
 }
