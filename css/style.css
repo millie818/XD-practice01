@@ -173,10 +173,15 @@ h1 {
   display: flex;
 }
 
-.news_content ul li dl dt {
+.news_content ul li a {
   font-size: 14px;
-  color: #9B9B9B;
+  color: #3B3B3B;
+  text-decoration: none;
+}
+
+.news_content ul li dl dt {
   margin-right: 60px;
+  color: #9b9b9b;
 }
 
 /* section .banners */
