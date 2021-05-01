@@ -179,6 +179,11 @@ h1 {
   text-decoration: none;
 }
 
+.news_content ul li a:hover {
+  opacity: .6;
+  transition: all .3s;
+}
+
 .news_content ul li dl dt {
   margin-right: 60px;
   color: #9b9b9b;
